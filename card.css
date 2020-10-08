@@ -1,0 +1,55 @@
+.card{
+    box-shadow: 10px 10px 5px #888888;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: darkmagenta;
+    
+    
+}
+
+p{
+    max-width: 300px;
+    margin: auto;
+}
+
+.title{
+    color: gray;
+    font-size: 18px;
+}
+
+button{
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    padding-top: 8px;
+    color: black;
+    background-color: green;
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    font-size: 20px;
+   
+}
+
+#a{
+  text-decoration: none;
+font-size: px;
+color: blue;
+}
+
+button:hover, a:hover{
+    opacity: 0.8;
+    
+}
+
+.card img{
+        width: 100px;
+        height: 100px;
+        float: center;
+        margin-right: 0;
+        margin-top: 10px;
+
+}
+
